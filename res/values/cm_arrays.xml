@@ -147,6 +147,7 @@
         <item>@string/icon_picker_calendar</item>
         <item>@string/icon_picker_camera</item>
         <item>@string/icon_picker_chrome</item>
+        <item>@string/icon_picker_contacts</item>
         <item>@string/icon_picker_email</item>
         <item>@string/icon_picker_email2</item>
         <item>@string/icon_picker_facebook</item>
